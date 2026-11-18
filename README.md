@@ -1,27 +1,31 @@
 <h1 align="center">Boyhood</h1>
-<p align="center">Personal projects · Aviation · Space · Clear interfaces</p>
+<p align="center"><strong>Exploring the sky. Building clearer experiences.</strong><br>Personal projects in aviation, space, and desktop software.</p>
+<p align="center"><a href="https://github.com/Boyhood-D/Boyhood-Project-Airview">Airview</a> · <a href="https://github.com/Boyhood-D/Boyhood-Project-Airview/releases/latest">Download</a> · <a href="https://github.com/Boyhood-D/Boyhood-Project-public">Project directory</a></p>
 
----
+## Featured project — Airview
 
-## Featured project
+<a href="https://github.com/Boyhood-D/Boyhood-Project-Airview"><img src="https://raw.githubusercontent.com/Boyhood-D/Boyhood-Project-Airview/main/assets/logo.svg" width="72" alt="Airview logo"></a>
 
-<a href="https://github.com/Boyhood-D/Boyhood-Project-Airview"><img src="https://raw.githubusercontent.com/Boyhood-D/Boyhood-Project-Airview/main/assets/logo.svg" width="64" alt="Airview logo"></a>
+**A free, portable Windows application for exploring aircraft and satellites.**
 
-### [Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview)
+Airview brings public sky data into two focused workspaces: a detailed aircraft map and a separate satellite globe. Its English interface keeps reported observations and calculated estimates clearly identified.
 
-A free portable Windows application for exploring publicly received aircraft on a detailed map and calculated satellite positions on a rotating globe.
+| Flights | Space |
+| --- | --- |
+| Aircraft identity cards and estimated flight phases | Calculated satellite and ISS positions |
+| Detailed map layers and a worldwide airport directory | Predicted orbital trajectories and day/night shading |
+| Following, favorites, and session trails | Search by name, NORAD, or COSPAR |
 
-- Aircraft identity cards and estimated flight phases.
-- Satellite and ISS positions, with predicted orbital trajectories.
-- Map layers, day/night shading, following and favorites.
-- English interface, adaptive refresh and no paid service.
+**[Download for Windows](https://github.com/Boyhood-D/Boyhood-Project-Airview/releases/latest)** · [Source code](https://github.com/Boyhood-D/Boyhood-Project-Airview) · [User guide](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/docs/USER_GUIDE.md) · [Release notes](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/CHANGELOG.md)
 
-**[Download Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview/releases/latest)** · [Explore the source](https://github.com/Boyhood-D/Boyhood-Project-Airview) · [Read the guide](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/docs/USER_GUIDE.md)
+## Approach
 
-## Feedback and contributions
+- **Clarity:** focused interfaces and useful information.
+- **Transparency:** visible data sources, coverage limits, and estimates.
+- **Accessibility:** free software, with no account or paid subscription required for Airview.
 
-Please use [Airview issues](https://github.com/Boyhood-D/Boyhood-Project-Airview/issues) for reproducible bug reports and focused suggestions. See the contribution guide before proposing a change.
+## Feedback & contributions
 
----
+Found a problem or have a focused suggestion? [Open an Airview issue](https://github.com/Boyhood-D/Boyhood-Project-Airview/issues). For source changes, start with the [contribution guide](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/CONTRIBUTING.md).
 
-<sub>Airview is for personal observation. Public data depend on provider coverage and availability; flight phases and orbital positions remain estimates. Never use it for operational navigation or air traffic control.</sub>
+<sub>Airview is for personal observation. Public data depend on provider coverage and availability; flight phases and orbital positions are estimates. Never use it for operational navigation or air traffic control.</sub>
