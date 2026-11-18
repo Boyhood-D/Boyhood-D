@@ -1,27 +1,27 @@
 <h1 align="center">Boyhood</h1>
-<p align="center">Projets personnels · Aviation · Espace · Interfaces simples</p>
+<p align="center">Personal projects · Aviation · Space · Clear interfaces</p>
 
 ---
 
-## Projet à découvrir
+## Featured project
 
-<a href="https://github.com/Boyhood-D/Boyhood-Project-Airview"><img src="https://raw.githubusercontent.com/Boyhood-D/Boyhood-Project-Airview/main/assets/logo.svg" width="64" alt="Logo Airview"></a>
+<a href="https://github.com/Boyhood-D/Boyhood-Project-Airview"><img src="https://raw.githubusercontent.com/Boyhood-D/Boyhood-Project-Airview/main/assets/logo.svg" width="64" alt="Airview logo"></a>
 
 ### [Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview)
 
-Une application Windows portable et gratuite pour explorer le trafic aérien public et les satellites sur une carte 2D personnalisable.
+A free portable Windows application for exploring publicly received aircraft on a detailed map and calculated satellite positions on a rotating globe.
 
-- Fiches d’identité des appareils et phases de vol estimées.
-- Satellites actifs, ISS et traces orbitales calculées.
-- Calques de carte, cycle jour/nuit, suivi et favoris.
-- Interface française, sans compte ni clé API requis.
+- Aircraft identity cards and estimated flight phases.
+- Satellite and ISS positions, with predicted orbital trajectories.
+- Map layers, day/night shading, following and favorites.
+- English interface, adaptive refresh and no paid service.
 
-**[Télécharger Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview/releases/latest)** · [Explorer le code](https://github.com/Boyhood-D/Boyhood-Project-Airview) · [Lire le guide](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/docs/USER_GUIDE.md)
+**[Download Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview/releases/latest)** · [Explore the source](https://github.com/Boyhood-D/Boyhood-Project-Airview) · [Read the guide](https://github.com/Boyhood-D/Boyhood-Project-Airview/blob/main/docs/USER_GUIDE.md)
 
-## Échanger autour du projet
+## Feedback and contributions
 
-Pour signaler un bug ou proposer une amélioration, utiliser les [issues d’Airview](https://github.com/Boyhood-D/Boyhood-Project-Airview/issues). Les retours précis et reproductibles aident à améliorer l’application.
+Please use [Airview issues](https://github.com/Boyhood-D/Boyhood-Project-Airview/issues) for reproducible bug reports and focused suggestions. See the contribution guide before proposing a change.
 
 ---
 
-<sub>Airview est un outil de loisir et d’observation personnelle. Ses données publiques sont soumises à des limites de couverture et de disponibilité ; les phases et positions calculées restent des estimations.</sub>
+<sub>Airview is for personal observation. Public data depend on provider coverage and availability; flight phases and orbital positions remain estimates. Never use it for operational navigation or air traffic control.</sub>
